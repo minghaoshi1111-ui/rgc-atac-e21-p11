@@ -1,5 +1,5 @@
 **Analysis scripts for "A Developmental Shift from ONECUT to MEF2 Motif Enrichment in Rat Retinal Ganglion Cells"**
-Archived copy and DOI: added here once the first release has been archived.
+Archived at Zenodo: https://doi.org/10.5281/zenodo.22761406
 
 These are the nine scripts that produced the numbers in the paper, plus the seven files they read or write. Nothing has been tidied, re-pathed or re-run for the deposit: each script is the script that produced the result.
 
