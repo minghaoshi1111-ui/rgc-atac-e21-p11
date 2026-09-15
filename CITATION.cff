@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these scripts, please cite both the software and the paper."
+type: software
+title: "A Developmental Shift from ONECUT to MEF2 Motif Enrichment in Rat Retinal Ganglion Cells"
+abstract: "The nine analysis scripts, with their input and region files, that
+  produced the reported numbers in an analysis of public rat retinal ganglion
+  cell ATAC-seq and RNA-seq data at embryonic day 21 and postnatal day 11."
+authors:
+  - family-names: "Shi"
+    given-names: "Minghao"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    # affiliation: "Rancho Cucamonga High School"
+version: 1.0.0
+date-released: "2026-09-14"
+license: MIT
+repository-code: "https://github.com/minghaoshi1111/rgc-atac-e21-p11"
+keywords:
+  - ATAC-seq
+  - chromatin accessibility
+  - retinal ganglion cell
+  - transcription factor motif
+  - rat
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22761406"
+    description: "Archived release (all versions)"
+
