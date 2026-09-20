@@ -1,7 +1,7 @@
 **Analysis scripts for "A Developmental Shift from ONECUT to MEF2 Motif Enrichment in Rat Retinal Ganglion Cells"**
 Archived at Zenodo: https://doi.org/10.5281/zenodo.22761406
 
-These are the nine scripts that produced the numbers in the paper, plus the seven files they read or write. Nothing has been tidied, re-pathed or re-run for the deposit: each script is the script that produced the result.
+These are the nine scripts that produced the numbers in the paper, plus the seven files they read or write.
 
 **Data**
 No new data were generated. Everything starts from public records: GEO GSE163564 (with GSE163562 and GSE163563), BioProject PRJNA686776, SRA study SRP298616, genome mRatBN7.2 (GCA_015227675.2, RefSeq GCF_015227675.2), annotation Ensembl release 112. Alignment and peak calling were done with nf-core/atacseq as described in Methods 4.3; software versions are in Methods 4.11.
